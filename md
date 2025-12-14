@@ -5,7 +5,7 @@
 </p>
 
 ---
-
+md
 ### 🌱 About me
 - 🌍 From Finland  
 - 🎓 Currently learning and improving my programming skills  
