@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ha Nguyen 👋</h1>
 
-<!--
-**HaNguyen-oamk/HaNguyen-oamk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Welcome to my GitHub profile!
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 About me
+- 🌍 From Finland  
+- 🎓 Currently learning and improving my programming skills  
+- 🚀 Interested in C, game, web development and problem solving  
+
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,react" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=HaNguyen-oamk&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Contact
+- ✉️ Email: *hnguyen22@students.oamk.fi*  
