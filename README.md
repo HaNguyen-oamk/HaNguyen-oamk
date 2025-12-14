@@ -22,7 +22,7 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats-git-master-original-rickstaa.vercel.app/api?username=HaNguyen-oamk&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HaNguyen-oamk&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
